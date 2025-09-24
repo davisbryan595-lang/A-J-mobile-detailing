@@ -1,6 +1,6 @@
 import Navbar from "@/components/navbar"
 import Hero from "@/components/hero"
-import Services from "@/components/Services"
+import Services from "@/components/services"
 import HowItWorks from "@/components/how-it-works"
 import Pricing from "@/components/pricing"
 import Gallery from "@/components/gallery"
